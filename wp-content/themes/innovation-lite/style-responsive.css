@@ -1,0 +1,88 @@
+/* Innovation Theme by D5 Creation, www.d5creation.com
+/* =Responsive Design 
+-------------------------------------------------------------- */
+
+/* Responsive Styles */
+
+@media screen and (max-width: 1279px) {
+	 body { min-width: 1000px; }
+	.main-slider .slides li, .videoslide, .main-slider .flex_caption2  {height:400px;}
+	.main-slider .flex_caption1 {font-size:30px;}
+	.main-slider .flex_caption2 {height:400px;}
+	#grid-staff { max-width: 1000px;}
+	.view-staff { margin: 10px .85%; } 
+	#main-menu-con a { font-size: 13px; font-weight: 300; padding: 10px 10px 15px; }
+	.top-menu-con input#s:focus { width: 100px; }
+}
+
+@media screen and (max-width: 1023px) {
+	body { min-width: 775px; }
+	#header.smallheader { position: relative; }
+	img.site-logo, h1.site-title { display: block; float: none; margin: 0 auto; width: 40%; min-width: 250px; }
+	#main-menu-con { position: relative; display: block; width: 100%; max-width: 100%; text-align: center; right: auto; }
+	#main-menu-con ul { display: inline-block; margin: 0; }
+	.main-slider .slides li, .videoslide {height:300px;}
+	.main-slider .flex_caption1 {font-size:25px;}
+	.main-slider .slide_btn { font-size: 15px; }
+	.main-slider .flex-control-nav li a { width: 13px; height: 13px; }
+	.flexslider.main-slider .flex-direction-nav li a:before { font-size: 18px; }
+	.main-slider .flex_caption2 {height:300px; width: 40%;}
+	#grid-staff { max-width: 775px;}
+	.view-staff { margin: 10px 4.5%; } 
+	#main-menu-con a { font-size: 13px; font-weight: 100; padding: 5px 10px; }
+	#main-menu-con ul ul ul { left: 15px; top: 20px; }
+	.top-menu-con-container input#s:focus { width: 85px; }
+	#video-box-item { height: 550px; }
+	.featured-box, .bqpcontainer .featured-box { width: 42%; }
+	.grid-portfolio li { width: 49%; }
+	.bqpcontainer .fpthumb { max-height: 30vw; }
+}
+
+@media screen and (max-width: 799px) {
+	body { min-width: 575px; }
+	#grid-staff { max-width: 575px;}
+	.view-staff { margin: 10px 20%; } 
+	#header { position:relative; } 
+	.headerheight { display: none; }
+	.mobile-menu { display: block; }
+	#main-menu-con { width: 100%; max-width: 100%; display: none; position: absolute;  left:0; top: 100%; text-align: center; right:auto; }
+	#main-menu-con ul { display: inline-block; background: #ffffff;  margin: 0 auto; }
+	#main-menu-con a { margin: 1px auto; border-bottom: 1px solid #f6f6f6; padding: 10px; width: 100%; border-radius: 0 !important;  }
+	#main-menu-con li { float: none; width: 220px; margin: 0 auto; }
+	#main-menu-con ul ul a { margin: 0 auto; width: 100%; }
+	
+	img.site-logo, .site-title { float: none; display: block; margin: 0 auto 5px; width: 40%; }
+	main-menu-con
+	.grid-portfolio li { width: 80%; }
+	.bqpcontainer .tesheading .read-more { position: relative; }
+	#content, #right-sidebar { width: 100%; float: left; }
+	.post-container .fpthumb { max-height: 40vw; }
+}
+
+
+@media screen and (max-width: 699px) {
+	body { min-width: 300px; }
+	img.site-logo, .site-title { width: 70%; }
+	.main-slider .flex_caption2, .menu-top-menu-container { display: none; }
+	#grid-staff { max-width: 300px;}
+	.view-staff { margin: 10px 0%; } 
+	#video-box-item { display: none; }
+	.statitem { width: 100%; }
+	#main-menu-con.gobottom { position: relative; right:auto; }
+	.featured-box, .bqpcontainer .featured-box { width: 100%; }
+	.grid-portfolio li { width: 100%; }
+	#filter-gallery a { line-height: 25px; margin: 3px 8px; padding: 0 9px; }
+	.bqpcontainer .tesheading .read-more { position: relative; right: 0; }
+	.floatleft, .floatright { width: 100%; }
+	.bqpcontainer .fpthumb { max-height: 50vw; }
+	.social a { height: 35px; width: 35px; margin: 5px 1px;  }
+	.social a::before { font-size: 20px; }
+	
+}
+
+@media screen and (max-width: 499px) {
+	.poftfolioslider .flex-viewport { height: 250px; }
+	.main-slider .flex_caption1 {font-size:15px;}
+	.main-slider .slides li, .videoslide {height:200px;}
+	.connumber { display: none; }
+}

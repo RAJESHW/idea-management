@@ -1,0 +1,76 @@
+/*
+Admin css
+*/
+
+.wpp_option_list {}
+
+
+.wpp_option_list .wpp_option_single {
+    display: inherit;
+    margin: 0;
+}
+
+
+.wpp_result_list {
+    display: none;
+}
+
+.wpp_result_list li{
+    list-style:none;
+}
+
+
+
+.wpp_new_option_box_container {
+	-webkit-user-select:none;
+}
+
+.wpp_new_option_box_container {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.3);
+	display: none;
+	height: 100%;
+	left: 0;
+	position: fixed;
+	text-align: center;
+	top: 0;
+	width: 100%;
+	z-index: 999999;
+}
+
+.wpp_new_option_box_container .woc_alert_box {
+	background: none repeat scroll 0 0 rgb(255, 255, 255);
+	height: auto;
+	margin: 0 auto;
+	padding: 20px;
+	position: relative;
+	text-align: center;
+	top: 20%;
+	width: 280px;
+    border-radius: 15px;
+	box-shadow: 0 10px 8px rgba(100, 100, 100, 0.9);
+}
+
+.wpp_new_option_box_container .woc_alert_box .alert_box_close{
+    font-size: 35px;
+    color: #3A3A36;
+    position: absolute;
+    top: 2px;
+    right: 15px;
+    cursor: pointer;
+}
+
+.wpp_new_option_box_container .woc_alert_box .alert_box_close:hover{
+    color: #DD3333;
+}
+
+.wpp_new_option_box_container .woc_alert_box .fa-plus-square{
+    font-size: 50px;
+    color: #6C2EB9;
+}
+
+.wpp_new_option_box_container .woc_alert_box .alert_box_message{
+    padding: 15px;
+    font-size: 20px;
+    color: red;
+}
+

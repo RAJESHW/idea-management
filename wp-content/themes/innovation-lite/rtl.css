@@ -1,0 +1,413 @@
+/*
+Theme Name: Innovation Lite
+Theme URI: http://d5creation.com/theme/innovation
+
+Author: D5 Creation
+Author URI: http://d5creation.com
+
+Description: Innovation Lite is CSS3 Powered and WordPress Latest Version Ready Responsive Theme.  Innovation Lite has Multi Layered Slider, Portfolio and Animated Staff Box Items.  Super Elegant and Professional Innovation Lite Theme will be adjusted automatically with all smart devices if the Responsive Layout be selected.  Full Wide Template can be used for showing showcase or other pages. Featured Boxes, Portfolio and Staff Boxes can represent your company to the world. You can Visit the Innovation Lite Demo at http://demo.d5creation.com/themes/?theme=Innovation Lite and Innovation Lite descriptions at http://d5creation.com/theme/innovationlite 
+
+Version: 1.9
+
+Tags: two-columns, right-sidebar, left-sidebar, footer-widgets, rtl-language-support, featured-images, custom-header, custom-background, custom-menu, threaded-comments, sticky-post, front-page-post-form, entertainment, full-width-template, theme-options, translation-ready, blog, portfolio, education, food-and-drink 
+
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Innovation Lite WordPress Theme, Copyright 2015: D5 Creation (www.d5creation.com)
+Innovation Lite is distributed under the terms of the GNU GPL
+
+Text Domain: innovation-lite
+
+*/
+/* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
+-------------------------------------------------------------- */
+
+caption, th, td {
+	text-align:right;
+}
+
+.alignnone {
+	margin:5px 0 20px 20px;
+}
+
+.alignleft {
+	float:left;
+	margin:5px 20px 20px 0;
+}
+
+.alignright {
+	float:right;
+	margin:5px 0 20px 20px;
+}
+
+a img.alignleft {
+	float:left;
+	margin:5px 20px 20px 0;
+}
+
+a img.alignnone {
+	margin:5px 0 20px 20px;
+}
+
+a img.alignright {
+	float:right;
+	margin:5px 0 20px 20px;
+}
+
+a img.aligncenter {
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.wp-caption.alignnone {
+	margin:5px 0 20px 20px;
+}
+
+.wp-caption.alignright {
+	margin:5px 0 20px 20px;
+}
+
+.wp-caption.alignleft {
+	margin:5px 20px 20px 0;
+}
+
+img.site-logo, .site-title {
+	float:right;
+}
+
+#content {
+	float:right;
+}
+
+#left-sidebar {
+	float:left;
+}
+
+#main-menu-con {
+	left: 5%;
+	right: auto;
+}
+
+#main-menu-con li {
+	float:right;
+}
+
+#main-menu-con li ul {
+	float:right;
+}
+
+#main-menu-con ul ul,
+.sub-menu, .sub-menu ul ul {
+	float:right;
+	right:0;
+	left: auto;
+}
+
+#main-menu-con ul ul ul {
+	right:100%;
+	left: auto;
+}
+
+#main-menu-con ul ul a, #main-menu-con .menu-item-home ul a {
+	text-align:right;
+}
+
+#main-menu-con .menu-item-has-children a, #main-menu-con .page_item_has_children a {
+	padding-left: 20px;
+	padding-right: 0;
+}
+
+#main-menu-con li.menu-item-has-children a:after, #main-menu-con li.page_item_has_children a:after {
+	left:5px;
+	right: auto;
+}
+
+.innovationlite-top-menu ul.menu {
+	float: left;
+	border-left: 1px solid #CCCCCC;
+	border-right: none;
+}
+
+.innovationlite-top-menu .menu li {
+	float:right;
+}
+
+.innovationlite-top-menu .menu a:before {
+	padding: 0 0 0 5px;
+}
+
+.innovationlite-top-menu-items #searchsubmit {
+	margin-right: -5px;
+	margin-left: auto;
+}
+
+.connumber:before {
+	padding-left: 5px;
+	padding-right: 0;
+}
+
+a.loginicon, a.loginicon:hover {
+	float:left;
+}
+
+ul.lboxd ul {
+	padding:20px 20px 20px 40px;
+	left:-20px;
+	right: auto;
+}
+
+#left-sidebar .widget ul, #left-sidebar .widget ul {
+	margin: 0 15px 10px 0;
+}
+
+#footer-sidebar .first-footer-widget {
+	float:right;
+}
+
+#footer-sidebar .footer-widgets {
+	margin-right: 4%;
+	float:right;
+	margin-left: auto;
+}
+
+#footer-sidebar .widget ul, #footer-sidebar .widget ul {
+	margin: 0 15px 10px 0;
+}
+
+ul, ol {
+	margin:0 25px 10px 0;
+}
+
+address {
+	text-align:left;
+}
+
+textarea, input[type="text"], input[type="password"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="url"], .titlewrap input, select {
+	border-right:1px solid #AAAAAA;
+	border-left:1px solid #FFFFFF;
+}
+
+.heading1container .vcenter {
+	margin-right: 10px;
+	border-right: 3px solid #AAAAAA;
+	margin-left: auto;
+	border-left: none;
+}
+
+#heading1 {
+	text-align:left;
+	padding-left: 20px;
+	padding-right: 0;
+}
+
+.heading-desc1 {
+	text-align:left;
+	padding-left: 20px;
+	padding-right: 0;
+}
+
+.bqpcontainer .tesheading .read-more {
+	left: 5%;
+	right: auto;
+}
+
+#wpsblogpost.bqpcontainer .featured-box {
+	border-left: 1px solid #EEEEEE;
+	border-right: 1px solid #EEEEEE;
+}
+
+#filter-gallery li, #filter a {
+	float: right;
+}
+
+#filter-gallery a {
+	float: right;
+}
+
+.gallery-overlay {
+	right: 100%;
+	left: auto;
+}
+
+.item-gallery:hover .gallery-overlay {
+	right: 0;
+	left: auto;
+}
+
+blockquote, q {
+	border-right:10px solid #CCCCCC;
+	border-left: none;
+}
+
+blockquote:before, q:before {
+	margin-left:.20em;
+	margin-right: auto;
+}
+
+blockquote:after, q:after {
+	margin-right:.20em;
+	margin-left: auto;
+}
+
+.arrow-down {
+	float: right;
+	margin: -10px 20px 0 0;
+}
+
+#customers-comment li img {
+	float: right;
+}
+
+.clntback .clientslider ul li img {
+	float: right;
+}
+
+.post-meta span:before {
+	padding-left: 5px;
+	padding-right: 0;
+}
+
+.post-meta span {
+	padding-left: 20px;
+	padding-right: 0;
+}
+
+.vidtitle span:before {
+	right:8px;
+	left: auto;
+}
+
+.vidtitle span.play_pause:before {
+	right:0;
+	left: auto;
+}
+
+.over-image {
+	right:0;
+	left: auto;
+}
+
+.statitem {
+	float: right;
+}
+
+#container .attachment-thumbnail {
+	margin:0px 0 10px 15px;
+	float:right;
+}
+
+h1.page-title, h1.arc-post-title {
+	text-align:right;
+}
+
+h2.commentsbox:before {
+	padding-left: 10px;
+	padding-right: 0;
+}
+
+.searchinfo h1.page-title:before {
+	margin-right: -110px;
+	margin-left: auto;
+}
+
+.searchinfo h3.arc-src, .searchinfo h1.page-title, .searchinfo #searchform, .searchinfo .backhome {
+	padding-right: 110px;
+	padding-left: 0;
+}
+
+.read-more {
+	margin: 11px 0 0 -7px;
+	float: left;
+}
+
+.read-more:after {
+	padding-right: 5px;
+	padding-left: 0;
+}
+
+.page-link:before {
+	margin-left: 5px;
+	margin-right: auto;
+}
+
+.floatright {
+	float:right;
+}
+
+.floatleft {
+	float:left;
+}
+
+.up-bottom-border .floatright {
+	text-align: right;
+}
+
+.up-bottom-border .floatleft {
+	text-align: left;
+}
+
+#page-nav .alignleft {
+	text-align:left;
+}
+
+#page-nav .alignright {
+	text-align:right;
+}
+
+#comments img.avatar {
+	right: 0;
+	left: auto;
+}
+
+.comment-body:after {
+	border-left: 15px solid #EEEEEE;
+	margin: 0 -25px 0 0;
+	border-right: none;
+}
+
+#comments .commentlist li.comment {
+	padding:20px 115px 0 0;
+}
+
+#comments .commentlist .children li {
+	margin:0 -25px 0 0;
+}
+
+.go-top {
+	left: 10px;
+	right: auto;
+}
+
+#pageloader {
+	right: 0;
+	left: auto;
+}
+
+.loader-img {
+	right: 50%;
+	margin: -27px -27px 0 0;
+	left: auto;
+}
+
+.contactinfo h4, .contactinfo p {
+	padding-right: 55px;
+	padding-left: 0;
+}
+
+.mobile-menu::before {
+	padding-left: 10px;
+	padding-right: 0;
+}
+
+/* Text meant only for screen readers. */
+
+.screen-reader-text:focus {
+	right: 5px;
+	left: auto;
+}
+
+.social a {
+	float: right;
+}
+

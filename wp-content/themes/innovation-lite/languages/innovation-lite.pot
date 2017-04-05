@@ -1,0 +1,404 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Innovation Lite\n"
+"POT-Creation-Date: 2016-11-01 21:12+0600\n"
+"PO-Revision-Date: 2015-10-29 02:02+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: archive.php:14
+msgid "now browsing by category"
+msgstr ""
+
+#: archive.php:20
+msgid "now browsing by tag"
+msgstr ""
+
+#: archive.php:25
+msgid "now browsing by day"
+msgstr ""
+
+#: archive.php:28
+msgid "now browsing by month"
+msgstr ""
+
+#: archive.php:31
+msgid "now browsing by year"
+msgstr ""
+
+#: archive.php:34
+msgid "now browsing by author"
+msgstr ""
+
+#: archive.php:36
+msgid "now browsing the general archives"
+msgstr ""
+
+#: comments.php:12 functions.php:152
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:12 functions.php:152
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:12
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Comments are Closed"
+msgstr ""
+
+#: front-page.php:69
+msgid "Learn More"
+msgstr ""
+
+#: functions.php:21 header.php:43
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:21
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:117
+msgid "Theme by:"
+msgstr ""
+
+#: functions.php:117
+msgid "Powered by:"
+msgstr ""
+
+#: functions.php:132 functions.php:138
+msgid "Read More"
+msgstr ""
+
+#: functions.php:152
+msgid "Edit"
+msgstr ""
+
+#: functions.php:152
+msgid "Comments"
+msgstr ""
+
+#: functions.php:161
+msgid "NEWER ENTRIES"
+msgstr ""
+
+#: functions.php:162
+msgid "OLDER ENTRIES"
+msgstr ""
+
+#: functions.php:170
+msgid "SORRY, NOT FOUND ANYTHING"
+msgstr ""
+
+#: functions.php:171
+msgid "You Can Try Another Search..."
+msgstr ""
+
+#: functions.php:173
+msgid "&laquo; Or Return to the Home Page"
+msgstr ""
+
+#: functions.php:183
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:192
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: functions.php:201
+msgid "Footer Area One"
+msgstr ""
+
+#: functions.php:210
+msgid "Footer Area Two"
+msgstr ""
+
+#: functions.php:219
+msgid "Footer Area Three"
+msgstr ""
+
+#: functions.php:229
+msgid "Footer Area Four"
+msgstr ""
+
+#: inc/customize.php:9
+msgid "INNOVATION OPTIONS"
+msgstr ""
+
+#: inc/customize.php:24
+msgid "Use Responsive Layout"
+msgstr ""
+
+#: inc/customize.php:27
+msgid "Check the Box if you want the Responsive Layout of your Website"
+msgstr ""
+
+#: inc/customize.php:38
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Social Links"
+msgstr ""
+
+#: inc/customize.php:54
+msgid "Social Link - "
+msgstr ""
+
+#: inc/customize.php:57
+msgid ""
+"Input Your Social Page Link. Example: <b>http://facebook.com/d5creation</b>"
+msgstr ""
+
+#: inc/customize.php:67
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Slide Images"
+msgstr ""
+
+#: inc/customize.php:86
+msgid "Slide Image"
+msgstr ""
+
+#: inc/customize.php:89
+msgid ""
+"Upload or Input the Slide Image URL Here. Recommended Size: 2300px X 700px"
+msgstr ""
+
+#: inc/customize.php:102
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Featured Boxes"
+msgstr ""
+
+#: inc/customize.php:120
+msgid "Icon Name"
+msgstr ""
+
+#: inc/customize.php:123
+msgid "Icon Name from"
+msgstr ""
+
+#: inc/customize.php:128
+msgid "Innovation Responsive"
+msgstr ""
+
+#: inc/customize.php:136 inc/customize.php:169
+msgid "Featured Title"
+msgstr ""
+
+#: inc/customize.php:144
+msgid ""
+"The Color changing options of Innovation Lite will give the WordPress Driven "
+"Site an attractive look. Innovation Lite is super elegant and Professional "
+"Responsive Theme which will create the business widely expressed"
+msgstr ""
+
+#: inc/customize.php:152
+msgid "Featured Description"
+msgstr ""
+
+#: inc/customize.php:183
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Portfolio"
+msgstr ""
+
+#: inc/customize.php:190
+msgid "A FEW FROM OUR PORTFOLIO"
+msgstr ""
+
+#: inc/customize.php:198
+msgid "Portfolio Boxes Heading"
+msgstr ""
+
+#: inc/customize.php:205 inc/customize.php:377
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua"
+msgstr ""
+
+#: inc/customize.php:213
+msgid "Portfolio Boxes Heading Description"
+msgstr ""
+
+#: inc/customize.php:235
+msgid "Portfolio Image"
+msgstr ""
+
+#: inc/customize.php:238
+msgid "Uoload the Portfolio Image. The Sample Image is 400px X 300px"
+msgstr ""
+
+#: inc/customize.php:244 inc/customize.php:417
+msgid "OUR PROJECT "
+msgstr ""
+
+#: inc/customize.php:252 inc/customize.php:284
+msgid "Portfolio Title"
+msgstr ""
+
+#: inc/customize.php:260
+msgid "Innovation Lite is a Professional Responsive Theme"
+msgstr ""
+
+#: inc/customize.php:268
+msgid "Portfolio Description"
+msgstr ""
+
+#: inc/customize.php:299
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Front Page Heading"
+msgstr ""
+
+#: inc/customize.php:306
+msgid "WordPress is web <em>software you can use to create websites!</em>"
+msgstr ""
+
+#: inc/customize.php:314
+msgid "Heading"
+msgstr ""
+
+#: inc/customize.php:321
+msgid ""
+"It is Amazing!  <em>Over 60 million people</em> have chosen WordPress to "
+"power the place on the web"
+msgstr ""
+
+#: inc/customize.php:329
+msgid "Heading Description"
+msgstr ""
+
+#: inc/customize.php:337
+msgid "https://wordpress.org/themes/author/d5creation"
+msgstr ""
+
+#: inc/customize.php:345
+msgid "Button URL"
+msgstr ""
+
+#: inc/customize.php:356
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Staff Boxes"
+msgstr ""
+
+#: inc/customize.php:362
+msgid "WE ARE INSIDE"
+msgstr ""
+
+#: inc/customize.php:370
+msgid "Staff Boxes Heading"
+msgstr ""
+
+#: inc/customize.php:385
+msgid "Staff Boxes Heading Description"
+msgstr ""
+
+#: inc/customize.php:408
+msgid "Staff Image"
+msgstr ""
+
+#: inc/customize.php:411
+msgid "Uoload the Staff Image. The Sample Image is 300px X 200px"
+msgstr ""
+
+#: inc/customize.php:425
+msgid "Staff Name"
+msgstr ""
+
+#: inc/customize.php:433
+msgid "Service Executive"
+msgstr ""
+
+#: inc/customize.php:441
+msgid "Staff Designation"
+msgstr ""
+
+#: inc/customize.php:456
+msgid "Staff Social Links - "
+msgstr ""
+
+#: inc/customize.php:459
+msgid ""
+"Input Your Social Page Link. Example: <b>https://facebook.com/d5creation</b>"
+msgstr ""
+
+#: inc/customize.php:499
+msgid "Profile Link - "
+msgstr ""
+
+#: inc/customize.php:502
+msgid "Input Your Profile Page Link here"
+msgstr ""
+
+#: post-content.php:35
+msgid "Previous Image"
+msgstr ""
+
+#: post-content.php:36
+msgid "Next Image"
+msgstr ""
+
+#: search.php:12
+msgid "SEARCH RESULTS"
+msgstr ""
+
+#: search.php:17
+msgid "Search Term:"
+msgstr ""
+
+#: search.php:18
+msgid "Number of Results:"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Innovation Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://d5creation.com/theme/innovation"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Innovation Lite is CSS3 Powered and WordPress Latest Version Ready "
+"Responsive Theme.  Innovation Lite has Multi Layered Slider, Portfolio and "
+"Animated Staff Box Items.  Super Elegant and Professional Innovation Lite "
+"Theme will be adjusted automatically with all smart devices if the "
+"Responsive Layout be selected.  Full Wide Template can be used for showing "
+"showcase or other pages. Featured Boxes, Portfolio and Staff Boxes can "
+"represent your company to the world. You can Visit the Innovation Lite Demo "
+"at http://demo.d5creation.com/themes/?theme=Innovation Lite and Innovation "
+"Lite descriptions at http://d5creation.com/theme/innovationlite"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "D5 Creation"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://d5creation.com"
+msgstr ""

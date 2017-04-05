@@ -1,0 +1,45 @@
+/*
+Admin css
+*/
+
+
+@import 'poll-meta-box.css';
+
+
+#wpp_chart_report_after {
+    padding: 10px 10px;
+    margin: 15px 0;
+    background: #2EA3F2;
+    color: #fff;
+}
+
+#wpp_chart_report_after  a{
+    color: #fff !important;
+}
+
+#wpp_chart_report_after  .fa{
+    font-size: 30px;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+
+#wp_shortcode_notice {
+	color:red;
+}
+
+.poll_view_link { float:right; text-decoration:none; }
+
+.button.button-orange{
+	background: #e77f11;
+    color: #fff;
+	transition: all ease-out 0.15s;
+	border-color: #e77f11;
+    box-shadow: 0 1px 0 #e77f11;
+}
+
+.button.button-orange:hover,.button.button-orange:active,.button.button-orange:focus{
+	background: #D54E21;
+	color: #fff;
+    border-color: #D54E21;
+    box-shadow: 0 1px 0 #D54E21;
+}
